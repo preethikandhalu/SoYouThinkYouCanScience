@@ -1,0 +1,30 @@
+MC:PHYSICS:How many Newton's Laws are there?:3:10:1,2,3,4:False:not applicable
+MC:PHYSICS:The Big Bang Theory is about?:Beginning of Universe:10:Nuclear Bomb,Earthquakes,Beginning of Universe,Fourth of July:False:not applicable
+MC:PHYSICS:Earth is located in which galaxy?:Milky Way Galaxy:10:Milky Way Galaxy,Andromeda Galaxy,Snickers Galaxy,Bode's Galaxy:False:not applicable
+MC:PHYSICS:Electric current is typically measured in what units?:Amperes:20:Ohms,Hertz,Amperes,Volts:False:not applicable
+MC:PHYSICS:Theoretical physicist James Maxwell was born in what country?:Scotland:30:Ireland,Scotland,Iceland,Belgium:False:not applicable
+Word:PHYSICS:Who is considered the Father of Modern Physics?:Albert Einstein:20:False:not applicable
+Word:PHYSICS:A magnifying glass is what type of lens?:Convex:30:False:not applicable
+Word:PHYSICS:True or false? Iron is attracted by magnets:True:20:False:not applicable
+Word:PHYSICS:What kind of eclipse do we have when the moon is between the sun and the earth? Solar or Lunar eclipse?:Solar eclipse:20:False:not applicable
+Word:PHYSICS:A person who studies physics is known as a?:Physicist:10:False:not applicable
+MC:CHEMISTRY:What is the first element on the periodic table?:Hydrogen:10:Lithium,Carbon,Hydrogen,Oxygen:False:not applicable
+MC:CHEMISTRY:What is the center of an atom called?:Nucleus:10:Proton,Neutron,Nucleus,Electron:False:not applicable
+MC:CHEMISTRY:What is the main gas found in the air we breathe?:Nitrogen:30:Hydrogen,Nitrogen,Oxygen,Methane:False:not applicable
+MC:CHEMISTRY:What is the chemical symbol for gold?:Au:20:Al,Hg,Au,Go:False:not applicable
+MC:CHEMISTRY:At room temperature, what is the only metal that is in liquid form?:Mercury:20:Aluminium,Mercury,Iron,Copper:False:not applicable
+Word:CHEMISTRY:True or false? Acids have a pH level below 7:True:10:False:not applicable
+Word:CHEMISTRY:True or false? An electron carries a positive charge.:False:10:False:not applicable
+Word:CHEMISTRY:Atoms of the same chemical element that have different atomic mass are known as?:Isotopes:20:False:not applicable
+Word:CHEMISTRY:K is the chemical symbol for which element?:Potassium:20:False:not applicable
+Word:CHEMISTRY:What orbits the nucleus of an atom?:Electrons:10:False:not applicable
+MC:BIOLOGY:Botany is the study of?:Plants:10:Animals,Fungi,Plants,Virus:False:not applicable
+MC:BIOLOGY:Animals which eat both plants and other animals are known as what?:Omnivore:10:Herbivore,Omnivore,Carnivore,Omnomnomnivore:False:not applicable
+MC:BIOLOGY:A single piece of coiled DNA is known as a?:Chromosome:20:Gene,Chromosome,Genome,All of the above:False:not applicable
+MC:BIOLOGY:Who discovered the structure of the DNA?:Rosalind Franklin:30:Francis Crick,Rosalind Franklin,James Watson,Maurice Wilkins:False:not applicable
+MC:BIOLOGY:What does DNA stand for?:Deoxyribo Nucleic Acid:10:Ribo Nucleic Acid,Deoxyribo Nucleic Acid,Deoxy Nucleic Acid,Dephosphorylated Nucleic Acid:False:not applicable
+Word:BIOLOGY:Which famous scientist introduced the idea of natural selection?:Charles Darwin:20:False:not applicable
+Word:BIOLOGY:A person who studies biology is known as a?:Biologist:10:False:not applicable
+Word:BIOLOGY:Bacterial infections in humans can be treated with what?:Antibiotics:20:False:not applicable
+Word:BIOLOGY:What is the name of the process used by plants to convert sunlight into food?:Photosynthesis:10:False:not applicable
+Word:BIOLOGY:The death of every member of a particular species is known as what?:Extinction:10:False:not applicable
