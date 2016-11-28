@@ -1,24 +1,3 @@
-Name: Preethi Kandhalu (W1192362)
-Course name: COEN 275. Object-Oriented Analysis, Design and Programming. Fall 2016
-Assignment number: 3
-
------------------------------------------------------------------------------------------------------------------------------
-
-IDE: Eclipse (Version: Neon Release (4.6.0))
-Java version: 8
-=============================================================================================================================
-=============================================================================================================================
-
-CONTENTS
-src folder contains Source Code
-doc folder contains Javadocs (HTML files)
-questions.txt is the input file
-screenshots folden contains screen shots of the output
-SoYouThinkYouCanScience runnable JAR
-
-=============================================================================================================================
-=============================================================================================================================
-
 APP DESCRIPTION
 So You Think You Can Science is a science trivia app geared towards high school students. 
 
@@ -36,4 +15,3 @@ Please enlarge the window when you click on the "Show Bar Graph" button to see t
 
 *Note: questions that are loaded into the application are stored in questions.txt
 **Note: for the Runnable JAR file to function as intended, the questions.txt must be in the same folder as the JAR file
-
