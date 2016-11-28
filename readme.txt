@@ -10,8 +10,5 @@ The panel at the bottom of the quiz application displays various statistics for 
 The Bar graph button on the same panel displays the number of questions answered correctly based on topic. 
 Please enlarge the window when you click on the "Show Bar Graph" button to see the graph.
 
-=============================================================================================================================
-=============================================================================================================================
-
 *Note: questions that are loaded into the application are stored in questions.txt
 **Note: for the Runnable JAR file to function as intended, the questions.txt must be in the same folder as the JAR file
